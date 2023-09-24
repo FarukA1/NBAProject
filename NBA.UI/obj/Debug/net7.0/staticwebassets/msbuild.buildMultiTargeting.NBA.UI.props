@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NBA.UI.props" />
+</Project>

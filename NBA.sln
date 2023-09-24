@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.API", "NBA\NBA.API.csproj", "{2808905E-C372-40C1-8B6A-794DA484996C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA.UI", "NBA.UI\NBA.UI.csproj", "{60FF0C06-7610-4086-9B58-1DF0ABD12A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2808905E-C372-40C1-8B6A-794DA484996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2808905E-C372-40C1-8B6A-794DA484996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2808905E-C372-40C1-8B6A-794DA484996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2808905E-C372-40C1-8B6A-794DA484996C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FF0C06-7610-4086-9B58-1DF0ABD12A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FF0C06-7610-4086-9B58-1DF0ABD12A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FF0C06-7610-4086-9B58-1DF0ABD12A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FF0C06-7610-4086-9B58-1DF0ABD12A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAF9B1A-50D0-4040-ABA3-52ED687782A1}
+	EndGlobalSection
+EndGlobal
